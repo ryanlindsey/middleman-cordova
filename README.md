@@ -48,7 +48,7 @@ For more help follow [Middleman's project template instructions](http://middlema
 
 **middleman-cordova** hooks into the Middleman build process, merges the compiled assets with the Cordova structure and runs the `cordova prepare` command.
 
-Run ```bash $ middleman build ``` from the Middleman project directory.
+Run `$ middleman build` from the Middleman project directory.
 
 ---
 
