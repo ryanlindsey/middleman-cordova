@@ -1,0 +1,27 @@
+{
+  "name": "middleman-cordova",
+  "version": "0.0.1",
+  "authors": [
+    "Ryan Lindsey <ryan@pixelsonly.com>"
+  ],
+  "description": "Middleman template for Cordova 3.x.x",
+  "main": "index.html",
+  "keywords": [
+    "Middleman",
+    "Cordova"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pixelsonly/middleman-cordova",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "fastclick": "latest",
+    "normalize-css": "latest"
+  }
+}
